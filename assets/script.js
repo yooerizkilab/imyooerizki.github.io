@@ -148,7 +148,7 @@ async function pesan(){
     });
                   
     katangetik = "Makasih udah mau bukain yaaaa ><     ";
-    katangetik2 = "❤️❤️❤️❤️ I LOVE YOU ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️";
+    katangetik2 = "❤️❤️❤️❤️❤️ I LOVE YOU ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️";
                   
     pesanwhatsapp = "Hi kenalan yuk.....";
     setTimeout(kpemb,300);
