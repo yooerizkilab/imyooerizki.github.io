@@ -106,16 +106,16 @@ function ngetik2(){
 }
 
 // For WhatsApp
-// async function jawab(){
-//     await swals.fire('Kirim pesan ke WhatsApp aku, ya...!');
-//     window.location = "https://wa.me/62895341341001?text=" + pesanwhatsapp;
-// }
+async function jawab(){
+    await swals.fire('Kirim pesan ke WhatsApp aku, ya...!');
+    window.location = "https://wa.me/62895341341001?text=" + pesanwhatsapp;
+}
 
 // For Secreto
-async function jawab(){
-    await swals.fire('Isi Secreto ku yaa! 😉');
-    window.location = "https://secreto.site/aauki5";
-}
+// async function jawab(){
+//     await swals.fire('Isi Secreto ku yaa! 😉');
+//     window.location = "https://secreto.site/aauki5";
+// }
 
 async function pertama(){
     audio = new Audio('https://feeldreams.github.io/almostday.mp3');
